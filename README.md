@@ -224,4 +224,4 @@ GanttProject is provided as a **complete free version** with all features and up
 Don't miss out on the opportunity to streamline your project management! Download GanttProject today and take control of your tasks and resources.
 
 ---
-**Last updated:** 2026-09-16 21:52:56 UTC
+**Last updated:** 2026-09-17 00:06:09 UTC
